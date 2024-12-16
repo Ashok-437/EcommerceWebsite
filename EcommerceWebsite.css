@@ -1,0 +1,187 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+p{
+    color: #c5c8c9;
+    font-family: "Bree Serif";
+}
+h1{
+    color: #5d5d60;
+    font-family: "Bree Serif";
+}
+.navbar-image{
+    height: 40px;
+}
+.services-card{
+    color: #060727;
+    text-align: center;
+    background-color: #f0f5fa;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+.services-card-image{
+    height: 150px;
+}
+.product-card1{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 20px;
+    color: white;
+}
+.product-card2{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 20px;
+    color: white;
+}
+.product-card-para{
+    color: white;
+    font-family: "Roboto";
+}
+.product-card-button{
+    color: #d8a13a;
+    background-color: #d0f5df;
+    border-radius: 10px;
+    height: 33px;
+    width: 120px;
+    border-width: 0px;
+}
+.offer-bg{
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+.offer-img1{
+    height: 400px;
+}
+.offer-image1{
+    height: 150px;
+}
+.offer-img2{
+    height: 280px;
+}
+.offer-img3{
+    height: 100px;
+}
+.offer-headding{
+    color: #ad2167;
+    font-family: "Bree Serif";
+    text-align: left;
+}
+.offer-para{
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+    text-align: left;
+}
+.offer-para-highlite{
+    font-weight: bold;
+}
+.trending-bg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-trending-blogs-1-img.png");
+    background-size: cover;
+    height: 35vh;
+    border-radius: 20px;
+}
+.trending-bg2{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-trending-blogs-2-img.png");
+    background-size: cover;
+    height: 35vh;
+    border-radius: 20px;
+}
+.trending-headding{
+    color: #183b56;
+}
+.trending-button{
+    color: #d8a13a;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: white;
+    border-width: 0px;
+}
+.trending-card{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.explore-card{
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+.explore-card-para{
+    font-size: 20px;
+    color: #2a2e9c;
+}
+.explore-card-image{
+    border-radius: 20px;
+    height: 100px;
+    margin: 20px;
+}
+.explore-card-button{
+    color: #d8a13a;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #ffffff;
+    border-width: 0px;
+}
+.explore-card-image2{
+    height: 300px;
+    border-radius: 30px;
+    margin: 20px;
+}
+.contact-bg{
+    background-color: #f5f7fa;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.contact-headding{
+    color: #183b56;
+    font-size: 70px;
+    font-family: "Bree Serif";
+    font-weight: 500;
+}
+.contact-button{
+    border-style: solid;
+    border-color: #ff9f00;
+    color: #ff9f00;
+    background-color: #f5f7fa;
+    margin: 50px;
+}
+.footer-bg{
+    background-color: #0d2436;
+}
+.footer-image{
+    height: 70px;
+}
+.footer-address{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+.icon-bg{
+    background-color: #152c3e;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    padding: 14px;
+    margin: 2px;
+}
+.icon {
+    color: #5a7184;
+    font-size: 25px;
+}
+.footer-text{
+    color: #5a7184;
+    font-family: "Roboto";
+}
+.footer-text-para{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+.icon-copyrights{
+    font-size: 16px;
+    color: #5a7184;
+}
